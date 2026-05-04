@@ -121,4 +121,8 @@ Feel free to explore my solutions. If you find a more optimized approach, I woul
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Aftab0904/LeetCode_Solution_Repo/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0608-tree-node](https://github.com/Aftab0904/LeetCode_Solution_Repo/tree/main/0608-tree-node/) | Medium |
 <!---LeetCode Topics End-->
