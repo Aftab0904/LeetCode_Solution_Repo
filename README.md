@@ -70,6 +70,7 @@ Feel free to explore my solutions. If you find a more optimized approach, I woul
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0761-special-binary-string](https://github.com/Aftab0904/LeetCode_Solution_Repo/tree/main/0761-special-binary-string/) | Hard |
+| [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Aftab0904/LeetCode_Solution_Repo/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Aftab0904/LeetCode_Solution_Repo/tree/main/1461-check-if-a-string-contains-all-binary-codes-of-size-k/) | Medium |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/Aftab0904/LeetCode_Solution_Repo/tree/main/3666-minimum-operations-to-equalize-binary-string/) | Hard |
 ## Breadth-First Search
@@ -116,4 +117,8 @@ Feel free to explore my solutions. If you find a more optimized approach, I woul
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/Aftab0904/LeetCode_Solution_Repo/tree/main/0002-add-two-numbers/) | Medium |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Aftab0904/LeetCode_Solution_Repo/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
 <!---LeetCode Topics End-->
