@@ -60,8 +60,25 @@ Feel free to explore my solutions. If you find a more optimized approach, I woul
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/Aftab0904/LeetCode_Solution_Repo/tree/main/0048-rotate-image/) | Medium |
+| [3666-minimum-operations-to-equalize-binary-string](https://github.com/Aftab0904/LeetCode_Solution_Repo/tree/main/3666-minimum-operations-to-equalize-binary-string/) | Hard |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/Aftab0904/LeetCode_Solution_Repo/tree/main/0048-rotate-image/) | Medium |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3666-minimum-operations-to-equalize-binary-string](https://github.com/Aftab0904/LeetCode_Solution_Repo/tree/main/3666-minimum-operations-to-equalize-binary-string/) | Hard |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3666-minimum-operations-to-equalize-binary-string](https://github.com/Aftab0904/LeetCode_Solution_Repo/tree/main/3666-minimum-operations-to-equalize-binary-string/) | Hard |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3666-minimum-operations-to-equalize-binary-string](https://github.com/Aftab0904/LeetCode_Solution_Repo/tree/main/3666-minimum-operations-to-equalize-binary-string/) | Hard |
+## Ordered Set
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3666-minimum-operations-to-equalize-binary-string](https://github.com/Aftab0904/LeetCode_Solution_Repo/tree/main/3666-minimum-operations-to-equalize-binary-string/) | Hard |
 <!---LeetCode Topics End-->
