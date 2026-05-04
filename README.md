@@ -68,6 +68,7 @@ Feel free to explore my solutions. If you find a more optimized approach, I woul
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Aftab0904/LeetCode_Solution_Repo/tree/main/1461-check-if-a-string-contains-all-binary-codes-of-size-k/) | Medium |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/Aftab0904/LeetCode_Solution_Repo/tree/main/3666-minimum-operations-to-equalize-binary-string/) | Hard |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -81,4 +82,20 @@ Feel free to explore my solutions. If you find a more optimized approach, I woul
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/Aftab0904/LeetCode_Solution_Repo/tree/main/3666-minimum-operations-to-equalize-binary-string/) | Hard |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Aftab0904/LeetCode_Solution_Repo/tree/main/1461-check-if-a-string-contains-all-binary-codes-of-size-k/) | Medium |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Aftab0904/LeetCode_Solution_Repo/tree/main/1461-check-if-a-string-contains-all-binary-codes-of-size-k/) | Medium |
+## Rolling Hash
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Aftab0904/LeetCode_Solution_Repo/tree/main/1461-check-if-a-string-contains-all-binary-codes-of-size-k/) | Medium |
+## Hash Function
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Aftab0904/LeetCode_Solution_Repo/tree/main/1461-check-if-a-string-contains-all-binary-codes-of-size-k/) | Medium |
 <!---LeetCode Topics End-->
