@@ -59,6 +59,7 @@ Feel free to explore my solutions. If you find a more optimized approach, I woul
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/Aftab0904/LeetCode_Solution_Repo/tree/main/0002-add-two-numbers/) | Medium |
 | [0048-rotate-image](https://github.com/Aftab0904/LeetCode_Solution_Repo/tree/main/0048-rotate-image/) | Medium |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/Aftab0904/LeetCode_Solution_Repo/tree/main/3666-minimum-operations-to-equalize-binary-string/) | Hard |
 ## Matrix
@@ -107,4 +108,12 @@ Feel free to explore my solutions. If you find a more optimized approach, I woul
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0761-special-binary-string](https://github.com/Aftab0904/LeetCode_Solution_Repo/tree/main/0761-special-binary-string/) | Hard |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0002-add-two-numbers](https://github.com/Aftab0904/LeetCode_Solution_Repo/tree/main/0002-add-two-numbers/) | Medium |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0002-add-two-numbers](https://github.com/Aftab0904/LeetCode_Solution_Repo/tree/main/0002-add-two-numbers/) | Medium |
 <!---LeetCode Topics End-->
