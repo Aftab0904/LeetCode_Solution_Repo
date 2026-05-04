@@ -49,3 +49,19 @@ Below is an indexed overview of the challenges I have tackled so far:
 Feel free to explore my solutions. If you find a more optimized approach, I would love to hear about it! 
 
 [![GitHub Profile](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github)](https://github.com/Aftab0904)
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0048-rotate-image](https://github.com/Aftab0904/LeetCode_Solution_Repo/tree/main/0048-rotate-image/) | Medium |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0048-rotate-image](https://github.com/Aftab0904/LeetCode_Solution_Repo/tree/main/0048-rotate-image/) | Medium |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0048-rotate-image](https://github.com/Aftab0904/LeetCode_Solution_Repo/tree/main/0048-rotate-image/) | Medium |
+<!---LeetCode Topics End-->
