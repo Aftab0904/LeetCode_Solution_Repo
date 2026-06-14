@@ -124,5 +124,6 @@ Feel free to explore my solutions. If you find a more optimized approach, I woul
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0176-second-highest-salary](https://github.com/Aftab0904/LeetCode_Solution_Repo/tree/main/0176-second-highest-salary/) | Medium |
 | [0608-tree-node](https://github.com/Aftab0904/LeetCode_Solution_Repo/tree/main/0608-tree-node/) | Medium |
 <!---LeetCode Topics End-->
